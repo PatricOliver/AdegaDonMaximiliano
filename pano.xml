@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20981" start="node1" hassounds="0" appversion="7.1.7">
+  <panorama id="node1">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-4.34764" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:20:20" info="" author="" customnodeid="" title="03 esquerda" longitude="-48.84725133" heading="-4.34764" nodeid="node1" description="" copyright="" comment="" latitude="-26.29259320" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-64.62" title="" skinid="ht_url" target="_blank" id="Point01" tilt="11.59" description="" url=""/>
+      <hotspot pan="-67.7816" title="frente vinhos" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node10}" distance="2.54349"/>
+      <hotspot pan="-7.71825" title="buffet esq" skinid="ht_node" target="$fwd" id="Point03" tilt="0" description="" url="{node7}" distance="8.0032"/>
+      <hotspot pan="155.239" title="04 lateral esquerda" skinid="ht_node" target="$fwd" id="Point04" tilt="0" description="" url="{node4}" distance="2.10359"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-97.3696" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:20:14" info="" author="" customnodeid="" title="02 area externa" longitude="-48.84722850" heading="-97.3696" nodeid="node2" description="" copyright="" comment="" latitude="-26.29261213" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-97.25" title="" skinid="ht_url" target="_blank" id="Point01" tilt="-3.32" description="" url=""/>
+      <hotspot pan="-276.947" title="01 fachada" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node8}" distance="8.79131"/>
+      <hotspot pan="-97.352" title="frente vinhos" skinid="ht_node" target="$fwd" id="Point03" tilt="0" description="" url="{node10}" distance="3.24244"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="179.598" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:20:14" info="" author="" customnodeid="" title="meio vinhos" longitude="-48.84722685" heading="179.598" nodeid="node3" description="" copyright="" comment="" latitude="-26.29254056" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="357.588" title="frente vinhos" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node10}" distance="4.71868"/>
+      <hotspot pan="93.3072" title="fundos direito" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node5}" distance="2.011"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-182.964" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:20:14" info="" author="" customnodeid="" title="04 lateral esquerda" longitude="-48.84725869" heading="-182.964" nodeid="node4" description="" copyright="" comment="" latitude="-26.29261093" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-203.378" title="03 esquerda" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node1}" distance="2.10359"/>
+      <hotspot pan="-43.47" title="" skinid="ht_url" target="_blank" id="Point02" tilt="26.49" description="" url=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:20:18" info="" author="" customnodeid="" title="fundos direito" longitude="-48.84720672" heading="0" nodeid="node5" description="" copyright="" comment="" latitude="-26.29253939" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="93.7093" title="meio vinhos" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node3}" distance="2.011"/>
+      <hotspot pan="1.78823" title="sobremesas" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node6}" distance="2.14043"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:19:56" info="" author="" customnodeid="" title="sobremesas" longitude="-48.84720739" heading="0" nodeid="node6" description="" copyright="" comment="" latitude="-26.29252015" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-178.212" title="fundos direito" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node5}" distance="2.14043"/>
+      <hotspot pan="88.3187" title="buffet direita" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node9}" distance="1.13697"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="23/02/2021 11:22" info="" author="" customnodeid="" title="buffet esq" longitude="-48.84724661" heading="0" nodeid="node7" description="" copyright="" comment="" latitude="-26.29252135" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-86.5584" title="buffet direita" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node9}" distance="2.77842"/>
+      <hotspot pan="176.629" title="03 esquerda" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node1}" distance="8.0032"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:20:18" info="" author="" customnodeid="" title="01 fachada" longitude="-48.84722785" heading="0" nodeid="node8" description="" copyright="" comment="" latitude="-26.29269119" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="0.422321" title="02 area externa" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node2}" distance="8.79131"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="23/02/2021 11:22" info="" author="" customnodeid="" title="buffet direita" longitude="-48.84721879" heading="0" nodeid="node9" description="" copyright="" comment="" latitude="-26.29251985" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-91.6813" title="sobremesas" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node6}" distance="1.13697"/>
+      <hotspot pan="93.4416" title="buffet esq" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node7}" distance="2.77842"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="0" preload="0" width="720"/>
+      <level height="360" predecode="1" preload="1" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="173.656" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2025:03:05 22:20:17" info="" author="" customnodeid="" title="frente vinhos" longitude="-48.84722851" heading="173.656" nodeid="node10" description="" copyright="" comment="" latitude="-26.29258297" tags="AdegaDonMax" source=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label border="1" borderalpha="1" width="180" background="1" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-6.32638" title="02 area externa" skinid="ht_node" target="$fwd" id="Point01" tilt="0" description="" url="{node2}" distance="3.24244"/>
+      <hotspot pan="171.646" title="meio vinhos" skinid="ht_node" target="$fwd" id="Point02" tilt="0" description="" url="{node3}" distance="4.71868"/>
+      <hotspot pan="290.222" title="03 esquerda" skinid="ht_node" target="$fwd" id="Point03" tilt="0" description="" url="{node1}" distance="2.54349"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" hideabout="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" zoomcentercursor="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" author="" title="" tags="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
